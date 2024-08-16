@@ -1,0 +1,13 @@
+backend:-npm start
+frontend:-npm run dev
+
+
+
+http://localhost:5000/api/signup
+{
+  "username":"chakri",
+  "email":"chakri@gmail.com",
+  "password":"chakri123",
+  "mobileNumber":"5324325467"
+}
+

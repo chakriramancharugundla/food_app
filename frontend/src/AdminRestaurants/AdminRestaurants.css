@@ -1,0 +1,204 @@
+/* .admin-restaurants {
+    padding: 20px;
+    max-width:100%;
+    margin: 0 auto;
+    
+}
+
+.admin-restaurants h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+  
+    
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+form input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+form button {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #5cb85c;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+form button:hover {
+    background-color: #4cae4c;
+}
+
+.restaurant-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.restaurant-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.restaurant-item .restaurant-info {
+    flex: 1;
+}
+
+.restaurant-item h3 {
+    margin: 0;
+    color: black; 
+}
+
+.restaurant-item p {
+    margin: 5px 0;
+}
+
+.actions {
+    display: flex;
+    gap: 10px;
+}
+
+.actions button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.actions button:nth-child(1) {
+    background-color: #5bc0de;
+    color: white;
+}
+
+.actions button:nth-child(1):hover {
+    background-color: #31b0d5;
+}
+
+.actions button:nth-child(2) {
+    background-color: #d9534f;
+    color: white;
+}
+
+.actions button:nth-child(2):hover {
+    background-color: #c9302c;
+}
+h3{
+    color: black;
+} */
+
+
+.admin-restaurants {
+    padding: 20px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.admin-restaurants h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.admin-restaurants form {
+    display: flex;
+    /* flex-direction: column; */
+    flex-direction: row;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.admin-restaurants form input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.admin-restaurants form button {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #5cb85c;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.admin-restaurants form button:hover {
+    background-color: #4cae4c;
+}
+
+.admin-restaurants .restaurant-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.admin-restaurants .restaurant-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.admin-restaurants .restaurant-info {
+    flex: 1;
+}
+
+.admin-restaurants .restaurant-item h3 {
+    margin: 0;
+    color: black;
+}
+
+.admin-restaurants .restaurant-item p {
+    margin: 5px 0;
+}
+
+.admin-restaurants .actions {
+    display: flex;
+    gap: 10px;
+}
+
+.admin-restaurants .actions button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.admin-restaurants .actions button:nth-child(1) {
+    background-color: #5bc0de;
+    color: white;
+}
+
+.admin-restaurants .actions button:nth-child(1):hover {
+    background-color: #31b0d5;
+}
+
+.admin-restaurants .actions button:nth-child(2) {
+    background-color: #d9534f;
+    color: white;
+}
+
+.admin-restaurants .actions button:nth-child(2):hover {
+    background-color: #c9302c;
+}
+
